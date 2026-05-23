@@ -18,9 +18,13 @@ End the program
 # Developed by : Arunachalam.m
 # RegisterNumber : 212225230019
 import numpy as np
+
 A = np.array([[1,-3],[3,1]])
+
 B=np.array([0,10])
+
 C=np.linalg.solve(A,B)
+
 print(C)
 
 ## Output:
