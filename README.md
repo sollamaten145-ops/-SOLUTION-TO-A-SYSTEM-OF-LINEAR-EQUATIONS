@@ -13,7 +13,7 @@ Prepare the lists from each linear equations and assign in np.array()
 Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
-
+## Program:
 # program to find a solution to a system of linear equations
 # Developed by : Arunachalam.m
 # RegisterNumber : 212225230019
